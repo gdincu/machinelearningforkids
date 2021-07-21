@@ -1,0 +1,4 @@
+1) Create & Train model using Teachablemachine - https://teachablemachine.withgoogle.com/ (this can also be done straight vis the machinelearningforkids.co.uk website - Teachablemachine is preferable as it gives you the option to download your model)
+2) Go at the bottom of the https://machinelearningforkids.co.uk/#!/pretrained page and tap on the "Open a TensorFlow model" button
+3) Select the location of the model downloaded from Teachablemachine
+4) Tap the "Open Scratch" button and load the scratch project from your computer (might also build a new scratch project around the model used)
